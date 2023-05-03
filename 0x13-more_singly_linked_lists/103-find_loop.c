@@ -31,4 +31,3 @@ return (fast);
 }
 
 return (NULL);
-}

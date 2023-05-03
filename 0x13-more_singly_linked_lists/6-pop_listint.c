@@ -21,4 +21,3 @@ free(*head);
 *head = temp;
 
 return (num);
-}

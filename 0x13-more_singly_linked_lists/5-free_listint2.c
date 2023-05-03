@@ -19,4 +19,3 @@ free(*head);
 }
 
 *head = NULL;
-}
